@@ -1,0 +1,29 @@
+h1, h2, h4, h5{
+    font-family: sans-serif;
+    color: #dddddd;
+}
+
+html{
+    margin: 2%; 
+}
+
+canvas{
+    border: 2px;
+    border-color: #dddddd;
+    border-style:solid;
+    width: 49%;  
+    
+}
+
+div{
+    display: inline;
+}
+
+body{
+    background-color: #4a525a;
+}
+
+footer{
+    text-align: right;
+}
+
